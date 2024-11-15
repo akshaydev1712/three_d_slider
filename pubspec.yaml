@@ -1,5 +1,7 @@
 name: three_d_slider
 description: "A versatile 3D slider widget for Flutter, perfect for building dynamic, interactive carousels with customizable 3D effects for modern UI designs."
+homepage: https://github.com/akshaydev1712/three_d_slider
+repository: https://github.com/akshaydev1712/three_d_slider
 version: 1.0.0
 license: MIT
 
